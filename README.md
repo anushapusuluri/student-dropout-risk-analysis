@@ -48,7 +48,7 @@ The goal is to help educational institutions identify at-risk students early and
 **Accuracy Achieved**: `~77%`
 ## Tableau Dashboard
 
-**Dashboard Name**: `Student Dropout Risk Dashboard','Dashboard1','Dashboard2','Dashboard3'  
+**Dashboard Name**: `Student Dropout Risk Dashboard'  
 **Features**:
 - Target outcome pie chart
 - Tuition vs Target (stacked bar)
